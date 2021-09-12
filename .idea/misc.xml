@@ -3,8 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/pritesh/AndroidStudioProjects/SoluteLabs_Pritesh/app/src/main/res/drawable/list_row_bg.xml" value="0.215625" />
+        <entry key="..\:/Users/pritesh/AndroidStudioProjects/SoluteLabs_Pritesh/app/src/main/res/drawable/list_row_bg_hover.xml" value="0.215625" />
+        <entry key="..\:/Users/pritesh/AndroidStudioProjects/SoluteLabs_Pritesh/app/src/main/res/drawable/list_row_selector.xml" value="0.215625" />
         <entry key="..\:/Users/pritesh/AndroidStudioProjects/SoluteLabs_Pritesh/app/src/main/res/layout/activity_users_tab.xml" value="0.11639492753623189" />
+        <entry key="..\:/Users/pritesh/AndroidStudioProjects/SoluteLabs_Pritesh/app/src/main/res/layout/custom_list_layout.xml" value="0.11005434782608696" />
+        <entry key="..\:/Users/pritesh/AndroidStudioProjects/SoluteLabs_Pritesh/app/src/main/res/layout/list_row.xml" value="0.11639492753623189" />
         <entry key="..\:/Users/pritesh/AndroidStudioProjects/SoluteLabs_Pritesh/app/src/main/res/layout/single_list_item.xml" value="0.11639492753623189" />
+        <entry key="..\:/Users/pritesh/AndroidStudioProjects/SoluteLabs_PriteshBehra/app/src/main/res/layout/activity_splash.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/pritesh/AndroidStudioProjects/SoluteLabs_PriteshBehra/app/src/main/res/layout/activity_users_tab.xml" value="0.19947916666666668" />
       </map>
     </option>
   </component>
